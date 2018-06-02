@@ -3,10 +3,10 @@ A program that does two things at the same time: on the one hand store informati
 
 
 # Authorized functions
-• read
-• write
-• malloc
-• free
-• strerror
-• the __asm__ compilation directive
-• a large number management library
+* read
+* write
+* malloc
+* free
+* strerror
+* the __asm__ compilation directive
+* a large number management library
